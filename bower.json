@@ -1,0 +1,20 @@
+{
+  "name": "belajar-web",
+  "homepage": "https://github.com/azistri/belajar-web",
+  "authors": [
+    "hazis tri hartoyo <azistri21@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.7"
+  }
+}
